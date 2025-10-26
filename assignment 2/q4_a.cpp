@@ -4,10 +4,11 @@
 using namespace std;
 
 int main(){
-    string str1 = "Yashti ";
-    string str2 = "Mittal";
+    string str1 = "Garv ";
+    string str2 = "Sharma";
 
     str1 += str2;
 
     cout<<"the concatenated string is: "<<str1<<endl;
+
 }
